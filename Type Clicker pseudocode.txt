@@ -1,0 +1,110 @@
+Kyle Baldwin
+3/7/19
+type clicker
+pseudocode
+
+class money
+def __init__
+self.money
+self.money_per
+self.timer
+
+class Buy
+def __init__
+self.fast_key = 10
+self.keyboard = 20
+self.keys = 30
+self.fast_time = 40
+self.2*_time=50
+self.3*_time=60
+self.4*_time=70
+self.shop_keyboard=100
+self.factory_keyboard=200
+self.world_keyboard=300
+self.galexy_keyboard=400
+self.time_travel=500
+self.time_drift=600
+
+
+import sys, time, math, os
+
+Function Buy(cost,item,add,self)
+add to self.money_per
+print
+self.money-cost
+print
+T.sleep
+
+Function time(cost,item,add,self)
+self.timer-add
+print
+self.money-cost
+print
+T.sleep
+
+Function buy_menu(self)
+self2=Buy()
+variables fast_key, keyboard, keys,fast_time,ect
+while true
+print
+purchased(input)
+########################
+if purchased
+if money fast_key
+buy
+fast_key+=10
+else
+print
+sleep
+clear
+############################
+Do That several times
+#############################
+else
+print
+sleep
+clear
+
+function typer
+while true input
+if type menu
+break
+else
+money+money_per
+money=M.ceil(money*100)/100
+print
+clear
+
+function auto_typer
+global timer, money,money_per
+while True
+print 
+i=input
+if i=""
+break
+for l in range(int(i))
+money+=money_per
+money = M.ceil(money * 100) / 100
+sleep
+l+=1
+print
+
+function main
+self=Money()
+print
+print
+while true
+i=input
+if i==1
+buy_menu
+elif i==2
+typer
+elif i==3
+auto_typer
+elif==""
+print 
+exit
+
+main()
+
+

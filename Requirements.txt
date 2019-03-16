@@ -1,0 +1,15 @@
+requirement
+class money
+money
+money_per
+time
+class buy
+all the buys
+function
+have it auto run
+function
+have where user can make money
+function
+buy menu
+function
+main menu
